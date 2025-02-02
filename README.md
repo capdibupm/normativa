@@ -3,9 +3,9 @@
 [**ES**]
 
 1. Descarga la carpeta `docs` de [este repositorio](https://github.com/capdibupm/normativa).
-2. Sigue las instrucciones de la [Wiki](https://github.com/capdibupm/normativa/wiki/ProcesoPresentacionTesis) para completar los formularios necesarios.
+2. Sigue las instrucciones de la [Wiki](https://github.com/capdibupm/normativa/wiki/Proceso-de-presentacion-de-tesis) para completar los formularios necesarios.
 
 [**EN**]
 
 1. Download the `docs` folder from [this repository](https://github.com/capdibupm/normativa).
-2. Follow the instructions in the [Wiki](https://github.com/capdibupm/normativa/wiki/ThesisSubmissionProcess_English) to complete the necessary forms.
+2. Follow the instructions in the [Wiki](https://github.com/capdibupm/normativa/wiki/Thesis-submission-process) to complete the necessary forms.
