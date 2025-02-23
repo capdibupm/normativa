@@ -1,10 +1,10 @@
 # Procesos de tesis doctoral en el Programa de Doctorado de Ingeniería Biomédica de la Universidad Politécnica de Madrid
 
-*Fecha de última actualización: 2025-02-13*
+*Fecha de última actualización: 2025-02-23*
 
 [**ES**]
 1. Para descargar cualquiera de las carpetas de este repositorio haga clic en el botón verde `Code` y seleccione la opción `Download ZIP`:
-    - Haz clic en sobre el fichero deseado (*e.g.* `docs_defense.zip`) como indicado en la imagen.
+    - Haz clic en sobre el fichero deseado (*e.g.* `docs_defense.zip`) como indica la imagen.
     ![Acceder a la carpeta `docs`](https://github.com/capdibupm/normativa/blob/gh-pages/click_docs_zip.png)
     - Descarga y descomprime el archivo `.zip` en tu ordenador.
     ![Descargar la carpeta `docs`](https://github.com/capdibupm/normativa/blob/gh-pages/click_download.png)
