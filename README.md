@@ -1,6 +1,6 @@
 # Procesos de tesis doctoral en el Programa de Doctorado de Ingeniería Biomédica de la Universidad Politécnica de Madrid
 
-*Fecha de última actualización: 2025-02-23*
+*Fecha de última actualización: 2025-04-02*
 
 [**ES**]
 1. Para descargar cualquiera de las carpetas de este repositorio haga clic en el botón verde `Code` y seleccione la opción `Download ZIP`:
